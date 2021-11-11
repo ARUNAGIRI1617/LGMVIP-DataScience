@@ -1,2 +1,2 @@
 # LGMVIP-DataScience
-Internship program with LetGrowMore as Data Science Intern
+Internship program with LetsGrowMore as Data Science Intern
